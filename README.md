@@ -21,3 +21,10 @@ curPost - Object of each post
 |Image| curPost.parselyMeta["parsely-image-url"]|
 |Creator | curPost.parselyMeta["parsely-author"]|
 |Category| curPost.primary_category.name|
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/68404906/224100320-60eefe37-69b7-4af6-b333-c988eb9d7c26.png)
+![image](https://user-images.githubusercontent.com/68404906/224100604-8c22f518-ef53-44e6-8272-3473766bdadd.png)
+
+
