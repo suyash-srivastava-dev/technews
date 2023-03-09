@@ -22,7 +22,7 @@ const Post = () => {
 
                 {
                     hits.map((curPost) => {
-                        const { link } = curPost;
+                        const link  = curPost.link;
                         const date = curPost.modified_gmt;
                         const titleDate = new Date(date);
                         const dateString = titleDate.toUTCString();
